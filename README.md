@@ -13,6 +13,8 @@
 
   ## Project Description
   
+  ![Insomnia (ORM)](https://user-images.githubusercontent.com/102200863/175854607-bcade624-3643-4bda-89e2-56356341f8a5.png)
+
   A fully opperational back end for an online store, using object-relational mapping. Create, read, update, and delete data from an e-commerce database. 
   
   ## Installation
@@ -36,6 +38,7 @@
   ## Test
   
   To test the project, clone this repository. View my walkthrough video below:
+  https://drive.google.com/file/d/1B7-qmkjLZTxhzpFwkU9gYM_5UhgRmALU/view
   
   ## Questions
 
